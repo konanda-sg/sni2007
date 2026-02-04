@@ -126,13 +126,13 @@ http://103.209.159.198:8278/TV1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 http://103.209.159.198:8278/TV2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d3baa546861909608a61a5e6207d612c
 
-;#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
+#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-;#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
+#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
 http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
 
 #EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 TEST
